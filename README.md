@@ -1,1 +1,1 @@
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fduncanfaulkner)
+![Twitter Follow](https://img.shields.io/twitter/follow/duncanfaulkner?style=social)
