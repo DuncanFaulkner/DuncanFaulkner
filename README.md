@@ -20,7 +20,8 @@ namespace DuncanFaulkner {
         'Rxjs',
         'C#',
         'MySql',
-        'MSSQL'
+        'MSSQL',
+        'Blogger - anglebrackets.dev
       ];
     }
 
