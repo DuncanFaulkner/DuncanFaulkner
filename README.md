@@ -30,6 +30,7 @@ namespace DuncanFaulkner {
         'To contribute more to open source.',
         'Join or start a local Angular meetup.',
         'Run training sessions on Angular, Angular Material.',
+        'Write an ebook.',
         'Speak at conferences.'
         ];
     }
