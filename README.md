@@ -16,9 +16,9 @@ namespace DuncanFaulkner {
         ['Javascript','ES5, ES6, ES2015'],
         ['HTML','all versions'],
         ['SCSS','all versions'],
-        [Rxjs','4, 5 & 6'],
+        ['Rxjs','4, 5 & 6'],
         ['C#','all versions'],
-        [MySql','8, 9, 10'],
+        ['MySql','8, 9, 10'],
         ['MSSQL','all versions'],
         ['Blogger','anglebrackets.dev'],
     ]);
