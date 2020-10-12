@@ -24,9 +24,9 @@ namespace DuncanFaulkner {
     ]);
     
     const futureGoal = {
-        OSS: 'To contribute more to open source.',
-        Meetup: 'Join or start a local Angular meetup.',
-        Training: 'Run training sessions on Angular, Angular Material.',
+        oss: 'To contribute more to open source.',
+        meetup: 'Join or start a local Angular meetup.',
+        training: 'Run training sessions on Angular, Angular Material.',
         book: 'Write an ebook.',
         conference: 'Speak at conferences.'
     }
