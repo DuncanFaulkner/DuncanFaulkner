@@ -4,7 +4,7 @@ namespace DuncanFaulkner {
     get currentWorkplace() {
       return {
         company: 'Applied Satellite Technology Ltd',
-        position: 'Senior Software Engineer'
+        position: 'Senior Angular Engineer'
       };
     }
 
