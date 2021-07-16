@@ -13,6 +13,9 @@ Writing posts on using Angular, Angular Material and Angular Flex-Layout.
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://anglebrackets-dev.medium.com/)
 
+[<img align="left" alt="medium" src="https://img.shields.io/badge/ngconf-%2312100E.svg?&style=for-the-badge&logo=ngconf&logoColor=white" />](https://medium.com/ngconf/)
+
+
 <br>
 <br>
 
