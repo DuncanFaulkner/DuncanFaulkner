@@ -21,6 +21,8 @@ Writing posts on using Angular, Angular Material and Angular Flex-Layout.
 <img align="left" alt="rxjs" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=#3178C6" />
 <img align="left" alt="rxjs" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
 
+<br>
+<br>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
