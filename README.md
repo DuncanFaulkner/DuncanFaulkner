@@ -29,6 +29,5 @@ Writing posts on using Angular, Angular Material and Angular Flex-Layout.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
