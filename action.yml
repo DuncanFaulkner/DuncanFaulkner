@@ -99,7 +99,7 @@ outputs:
 
 runs:
   using: node12
-  main: dist/blog-post-workflow.js
+  main: blog-post-workflow.js
 branding:
   icon: 'activity'
   color: 'blue'
