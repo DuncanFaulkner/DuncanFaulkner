@@ -8,6 +8,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@master
       - uses: DuncanFaulkner/DuncanFaulkner@master
         with:
           feed_list: "https://anglebrackets-dev.medium.com/feed/"
