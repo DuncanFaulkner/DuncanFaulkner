@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: DuncanFaulkner/action@master
+      - uses: DuncanFaulkner/DuncanFaulkner@master
         with:
           feed_list: "https://anglebrackets-dev.medium.com/feed/"
