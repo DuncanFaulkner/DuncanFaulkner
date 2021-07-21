@@ -82,9 +82,7 @@ I completed the Level 2 Certified Angular Program, at verious stages I have also
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="anglebrackets" GitHub Stats" src="https://github-readme-stats.DuncanFaulkner.vercel.app/api?username=DuncanFaulkner&show_icons=true&hide_border=true" />
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanFaulkner&show_icons=true&theme=dark)
 </details>
 
 
