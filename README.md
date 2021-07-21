@@ -1,10 +1,13 @@
 ### Hello 👋, 
 
-I'm a Front-end software engineer from the UK.
+I'm a Frontend software engineer based in the UK. I've been a software developer/engineer for over twenty years now and have worked on a wide range of projects using C#, web forms, ASP.Net MVC, SQL server and MariaDB though more recently Angular, Angular Material and Angular Flex-Layout.
 
-Working on various projects using Angular, Angular Material and Angular Flex-Layout.
+In the last couple of years I've written posts on Angular, Angular Material and Angular Flex-Layout (see top five latest posts below), there are more posts on https://anglebrackets.dev.
 
-Writing posts on using Angular, Angular Material and Angular Flex-Layout.
+Recently I became a co-organiser of the Angular Community Meetup for Europe/Africa - we run meetups every third Tuesday of the month, this is a great place to meet like minded developers and listen to industry experts talk about Angular related topics.
+
+I completed the Level 2 Certified Angular Program, at verious stages I have also completed MCP, MCSD, MCAD.Net and was also a Microsoft Silver Partner for ISV.
+
 
 ## Connect with me
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/duncanfaulkner)
