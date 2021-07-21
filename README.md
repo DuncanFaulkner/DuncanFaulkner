@@ -51,6 +51,7 @@ I completed the Level 2 Certified Angular Program, at verious stages I have also
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Duncan Faulkner   Lightning Talks NG Conference Day 2, April 23rd](https://www.youtube.com/watch?v=7Cq1cGt0OSA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC0GZuMaHzmbcvtmP1ZeMMcQ)
