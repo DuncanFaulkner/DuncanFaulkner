@@ -4,7 +4,7 @@
 ### Hello 👋, 
 - 🔭 I about to launch my first course: [Angular Material Fundamentals!][course]
 - 🌱 I’m currently learning Angular Flex-Layout
-- 👯 I’m the co-organiser of the Angular Community Meetup
+- 👯 I’m the co-organiser of the [Angular Community Meetup][meetup]
 - 📮 I write blogs for here [website] here [ngconf] and [medium]
 - 🥅 2020/21 Goals: Contribute more to Open Source projects
 
@@ -86,4 +86,5 @@ I completed the Level 2 Certified Angular Program, at verious stages I have also
 [twitter]: https://twitter.com/duncanfaulkner
 [youtube]: https://youtube.com/channel/UC0GZuMaHzmbcvtmP1ZeMMcQ
 [linkedin]: https://linkedin.com/in/duncanfaulkner1
+[meetup]: https://angularcommunity.net/home
 
