@@ -71,6 +71,11 @@ I completed the Level 2 Certified Angular Program, at verious stages I have also
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#75](https://github.com/gautamkrishnar/blog-post-workflow/issues/75) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+2. 🗣 Commented on [#1354](https://github.com/angular/flex-layout/issues/1354) in [angular/flex-layout](https://github.com/angular/flex-layout)
+3. ❗️ Opened issue [#75](https://github.com/gautamkrishnar/blog-post-workflow/issues/75) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+4. 💪 Opened PR [#1354](https://github.com/angular/flex-layout/pull/1354) in [angular/flex-layout](https://github.com/angular/flex-layout)
+5. 🗣 Commented on [#1350](https://github.com/angular/flex-layout/issues/1350) in [angular/flex-layout](https://github.com/angular/flex-layout)
 <!--END_SECTION:activity-->
 
 </details>
