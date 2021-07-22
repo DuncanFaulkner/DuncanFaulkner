@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Angular Flex-Layout
 - 📙 I'm also putting together an ebook on Angular Flex-Layout
 - 👯 I’m a co-organiser of the [Angular Community Meetup][meetup]
-- 📮 I write blogs for here [anglebrackets][website] here [ngconf] and [medium]
+- 📮 I write blog posts for here [anglebrackets][website] here [ngconf] and [medium]
 - 🥅 2020/21 Goals: Contribute more to Open Source projects
 
 
