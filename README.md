@@ -31,8 +31,7 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 <br />
 
-### Languages and Tools:
-
+## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
 <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
@@ -49,8 +48,7 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 <br />
 <br />
 
-### 📺 Latest YouTube Videos
-
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Duncan Faulkner   Lightning Talks NG Conference Day 2, April 23rd](https://www.youtube.com/watch?v=7Cq1cGt0OSA)
 <!-- YOUTUBE:END -->
@@ -68,8 +66,7 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://anglebracket.dev)
 
-<summary>:zap: Recent GitHub Activity</summary>
-  
+## Recent GitHub Activity  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#75](https://github.com/gautamkrishnar/blog-post-workflow/issues/75) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 2. 🗣 Commented on [#75](https://github.com/gautamkrishnar/blog-post-workflow/issues/75) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
@@ -77,8 +74,10 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 4. ❗️ Opened issue [#75](https://github.com/gautamkrishnar/blog-post-workflow/issues/75) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 5. 💪 Opened PR [#1354](https://github.com/angular/flex-layout/pull/1354) in [angular/flex-layout](https://github.com/angular/flex-layout)
 <!--END_SECTION:activity-->
+
 <br />
-<summary>:zap: GitHub Stats</summary>
+
+## Recent GitHub Stats
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=DuncanFaulkner&show_icons=true&theme=dark" />
 
 [website]: https://anglebrackets.dev
