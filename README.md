@@ -60,6 +60,7 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Flex-Layout using MediaObserver](https://medium.com/ngconf/angular-flex-layout-using-mediaobserver-20d13931b1dd?source=rss-767968b520a3------2)
 - [Angular Flex-Layout](https://medium.com/ngconf/angular-flex-layout-ddf1c8fad37e?source=rss-767968b520a3------2)
 - [How to: Using Mat-Icon — Part Two](https://medium.com/ngconf/how-to-using-mat-icon-part-two-2dfb748c7bfc?source=rss-767968b520a3------2)
 - [How to: Use Angular Material’s Mat-Icon with local SVG Images?](https://medium.com/ngconf/how-to-use-angular-materials-mat-icon-with-local-svg-images-b479134701af?source=rss-767968b520a3------2)
