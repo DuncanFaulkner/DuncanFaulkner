@@ -69,11 +69,11 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1328](https://github.com/angular/flex-layout/issues/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
+1. 💪 Opened PR [#19](https://github.com/nrwl/monorepo.tools/pull/19) in [nrwl/monorepo.tools](https://github.com/nrwl/monorepo.tools)
 2. 🗣 Commented on [#1328](https://github.com/angular/flex-layout/issues/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
 3. 🗣 Commented on [#1328](https://github.com/angular/flex-layout/issues/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
 4. 🗣 Commented on [#1328](https://github.com/angular/flex-layout/issues/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
-5. 🗣 Commented on [#1026](https://github.com/angular/flex-layout/issues/1026) in [angular/flex-layout](https://github.com/angular/flex-layout)
+5. 🗣 Commented on [#1328](https://github.com/angular/flex-layout/issues/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
 <!--END_SECTION:activity-->
 
 <br />
