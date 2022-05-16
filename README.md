@@ -7,16 +7,16 @@
 - 📙 I'm also putting together an ebook on Angular Flex-Layout
 - 👯 I’m the UK event organiser of the [Angular Community Meetup][meetup]
 - 📮 I write blog posts for here [anglebrackets][website] here [ngconf] and [medium]
-- 🥅 2020/21 Goals: Contribute more to Open Source projects
+- 🥅 2021/22 Goals: Contribute more to Open Source projects
 
 
-I'm a Frontend software engineer based in the UK. I've been a software developer/engineer for over twenty years now and have worked on a wide range of projects using C#, web forms, ASP.Net MVC, SQL server and MariaDB, for the last five years I've focused on Angular, Angular Material and Angular Flex-Layout.
+I'm a Frontend software engineer based in the UK. I've been a software developer/engineer for over twenty years now and have worked on a wide range of projects using C#, web forms, ASP.Net MVC, SQL server and MariaDB, for the last six years I've focused on Angular, Angular Material and Angular Flex-Layout.
 
 In the last couple of years I've written posts on Angular, Angular Material and Angular Flex-Layout (see top five latest posts below), there are more posts on [anglebrackets][website].
 
-Recently I became a co-organiser of the Angular Community Meetup for Europe/Africa - we run meetups every third Tuesday of the month, this is a great place to meet like minded developers and listen to industry experts talk about Angular related topics.
+Recently I became the UK event organiser of the Angular Community Meetup - we run meetups every second Tuesday of the month, this is a great place to meet like minded developers and listen to industry experts talk about Angular related topics.
 
-I recently completed the Level 2 Certified Angular Program, I am also an MCP, MCSD, MCAD.Net and was also a Microsoft Silver Partner for ISV.
+I recently completed the Level 2 Certified Angular Program, I am also an MCP, MCSD, MCAD.Net and was also a Microsoft Silver Partner for ISV and I'm currently studying for the AZ-900.
 
 
 ## Connect with me
