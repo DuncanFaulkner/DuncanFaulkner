@@ -70,9 +70,9 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/nrwl/monorepo.tools/issues/19) in [nrwl/monorepo.tools](https://github.com/nrwl/monorepo.tools)
-2. 💪 Opened PR [#19](https://github.com/nrwl/monorepo.tools/pull/19) in [nrwl/monorepo.tools](https://github.com/nrwl/monorepo.tools)
-3. 🗣 Commented on [#1328](https://github.com/angular/flex-layout/issues/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
+1. ❗️ Opened issue [#3](https://github.com/jamesgeorge007/jamesgeorge007/issues/3) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+2. 🎉 Merged PR [#4](https://github.com/DuncanFaulkner/DuncanFaulkner/pull/4) in [DuncanFaulkner/DuncanFaulkner](https://github.com/DuncanFaulkner/DuncanFaulkner)
+3. 💪 Opened PR [#4](https://github.com/DuncanFaulkner/DuncanFaulkner/pull/4) in [DuncanFaulkner/DuncanFaulkner](https://github.com/DuncanFaulkner/DuncanFaulkner)
 4. 🗣 Commented on [#1328](https://github.com/angular/flex-layout/issues/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
 5. 🗣 Commented on [#1328](https://github.com/angular/flex-layout/issues/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
 <!--END_SECTION:activity-->
