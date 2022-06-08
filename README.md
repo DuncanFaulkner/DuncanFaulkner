@@ -2,6 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/duncanfaulkner?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDuncanFaulkner&screen_name=DuncanFaulkner)
 
 ### Hello 👋, 
+- 📙 I've written a series of mini-ebooks for Angular material: [gumroad]
 - 🔭 I about to launch my first course: [Angular Material Fundamentals!][course]
 - 🌱 I’m currently learning Angular Flex-Layout
 - 📙 I'm also putting together an ebook on Angular Flex-Layout
@@ -61,6 +62,7 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Material - Mat-Form-Fields](https://medium.com/ngconf/an-introduction-to-angular-material-form-fields-5828b92d3a3c)
 - [Angular Flex-Layout using MediaObserver](https://medium.com/ngconf/angular-flex-layout-using-mediaobserver-20d13931b1dd?source=rss-767968b520a3------2)
 - [Angular Flex-Layout](https://medium.com/ngconf/angular-flex-layout-ddf1c8fad37e?source=rss-767968b520a3------2)
 - [How to: Using Mat-Icon — Part Two](https://medium.com/ngconf/how-to-using-mat-icon-part-two-2dfb748c7bfc?source=rss-767968b520a3------2)
@@ -90,4 +92,5 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 [youtube]: https://youtube.com/channel/UC0GZuMaHzmbcvtmP1ZeMMcQ
 [linkedin]: https://linkedin.com/in/duncanfaulkner1
 [meetup]: https://angularcommunity.net/home
+[gumroad]: https://anglebrackets.gumroad.com
 
