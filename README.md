@@ -71,11 +71,11 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DuncanFaulkner/setup-project/pull/1) in [DuncanFaulkner/setup-project](https://github.com/DuncanFaulkner/setup-project)
-2. 💪 Opened PR [#1](https://github.com/DuncanFaulkner/setup-project/pull/1) in [DuncanFaulkner/setup-project](https://github.com/DuncanFaulkner/setup-project)
-3. ❗️ Closed issue [#3](https://github.com/jamesgeorge007/jamesgeorge007/issues/3) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-4. 🗣 Commented on [#3](https://github.com/jamesgeorge007/jamesgeorge007/issues/3) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-5. ❗️ Opened issue [#3](https://github.com/jamesgeorge007/jamesgeorge007/issues/3) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+1. 🗣 Commented on [#125993](https://github.com/microsoft/vscode/issues/125993) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🎉 Merged PR [#1](https://github.com/DuncanFaulkner/setup-project/pull/1) in [DuncanFaulkner/setup-project](https://github.com/DuncanFaulkner/setup-project)
+3. 💪 Opened PR [#1](https://github.com/DuncanFaulkner/setup-project/pull/1) in [DuncanFaulkner/setup-project](https://github.com/DuncanFaulkner/setup-project)
+4. ❗️ Closed issue [#3](https://github.com/jamesgeorge007/jamesgeorge007/issues/3) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+5. 🗣 Commented on [#3](https://github.com/jamesgeorge007/jamesgeorge007/issues/3) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
 <!--END_SECTION:activity-->
 
 <br />
