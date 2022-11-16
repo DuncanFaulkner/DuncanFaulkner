@@ -17,7 +17,7 @@ In the last couple of years I've written posts on Angular, Angular Material and 
 
 Recently I became the UK event organiser of the Angular Community Meetup - we run meetups every second Tuesday of the month, this is a great place to meet like minded developers and listen to industry experts talk about Angular related topics.
 
-I recently completed the Level 2 Certified Angular Program, I am also an MCP, MCSD, MCAD.Net and was also a Microsoft Silver Partner for ISV and I'm currently studying for the AZ-900.
+I recently completed the Level 2 Certified Angular Program, I am also an MCP, MCSD, MCAD.Net, AZ-900 and was also a Microsoft Silver Partner for ISV, I'm currently studying for the DP-900.
 
 
 ## Connect with me
