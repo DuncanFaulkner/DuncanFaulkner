@@ -71,11 +71,11 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1433](https://github.com/angular/flex-layout/issues/1433) in [angular/flex-layout](https://github.com/angular/flex-layout)
-2. 🗣 Commented on [#1426](https://github.com/angular/flex-layout/issues/1426) in [angular/flex-layout](https://github.com/angular/flex-layout)
-3. 🗣 Commented on [#835](https://github.com/angular/flex-layout/issues/835) in [angular/flex-layout](https://github.com/angular/flex-layout)
-4. 🗣 Commented on [#1426](https://github.com/angular/flex-layout/issues/1426) in [angular/flex-layout](https://github.com/angular/flex-layout)
-5. 🗣 Commented on [#87](https://github.com/jamesgeorge007/github-activity-readme/issues/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❌ Closed PR [#1328](https://github.com/angular/flex-layout/pull/1328) in [angular/flex-layout](https://github.com/angular/flex-layout)
+2. 🗣 Commented on [#1433](https://github.com/angular/flex-layout/issues/1433) in [angular/flex-layout](https://github.com/angular/flex-layout)
+3. 🗣 Commented on [#1434](https://github.com/angular/flex-layout/issues/1434) in [angular/flex-layout](https://github.com/angular/flex-layout)
+4. 🗣 Commented on [#1433](https://github.com/angular/flex-layout/issues/1433) in [angular/flex-layout](https://github.com/angular/flex-layout)
+5. 🗣 Commented on [#1426](https://github.com/angular/flex-layout/issues/1426) in [angular/flex-layout](https://github.com/angular/flex-layout)
 <!--END_SECTION:activity-->
 
 <br />
