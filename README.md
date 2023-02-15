@@ -3,12 +3,15 @@
 
 ### Hello 👋, 
 - 📙 I've written a series of mini-ebooks for Angular material: [gumroad]
-- 🔭 I about to launch my first course: [Angular Material Fundamentals!][course]
-- 🌱 I’m currently learning Angular Flex-Layout
+- 🌱 I’m the new maintainer of the Angular Flex-Layout Library
 - 📙 I'm also putting together an ebook on Angular Flex-Layout
-- 👯 I’m the UK event organiser of the [Angular Community Meetup][meetup]
 - 📮 I write blog posts for here [anglebrackets][website] here [ngconf] and [medium]
-- 🥅 2021/22 Goals: Contribute more to Open Source projects
+- 🥅 2022/23 Goals: 
+  - Contribute more to Open Source projects
+  - Write a guide book to Angular
+  - Get back on the Meet up ciricut
+  - Write more on Angular Material
+  - Create new blog site
 
 
 I'm a Frontend software engineer based in the UK. I've been a software developer/engineer for over twenty years now and have worked on a wide range of projects using C#, web forms, ASP.Net MVC, SQL server and MariaDB, for the last six years I've focused on Angular, Angular Material and Angular Flex-Layout.
