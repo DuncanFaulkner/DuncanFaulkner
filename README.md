@@ -2,8 +2,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/duncanfaulkner?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDuncanFaulkner&screen_name=DuncanFaulkner)
 
 ### Hello 👋, 
+- 🌱 I’m the maintainer of the Angular Flex-Layout Library - now called ngx-layout [@ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 - 📙 I've written a series of mini-ebooks for Angular material: [gumroad]
-- 🌱 I’m the new maintainer of the Angular Flex-Layout Library
 - 📙 I'm also putting together an ebook on Angular Flex-Layout
 - 📮 I write blog posts for here [anglebrackets][website] here [ngconf] and [medium]
 - 🥅 2022/23 Goals: 
