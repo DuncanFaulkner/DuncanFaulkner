@@ -1,7 +1,22 @@
-[![Website](https://img.shields.io/website?label=anglebrackets.dev&style=for-the-badge&url=https%3A%2F%2Fanglebrackets.dev)](https://anglebrackets.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/duncanfaulkner?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDuncanFaulkner&screen_name=DuncanFaulkner)
+<!-- [![Website](https://img.shields.io/website?label=anglebrackets.dev&style=for-the-badge&url=https%3A%2F%2Fanglebrackets.dev)](https://anglebrackets.dev) 
+  [![Twitter Follow](https://img.shields.io/twitter/follow/duncanfaulkner?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDuncanFaulkner&screen_name=DuncanFaulkner)
+-->
 
-### Hello 👋, 
+<p>
+<a href="https://twitter.com/duncanfaulkner">
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://youtube.com/channel/UC0GZuMaHzmbcvtmP1ZeMMcQ">
+   <img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/duncanfaulkner1">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<p/>
+
+## Hi, I'm Duncan 👋, 
 - 🌱 I’m the maintainer of the Angular Flex-Layout Library - now called ngx-layout [@ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 - 📙 I've written a series of mini-ebooks for Angular material: [gumroad]
 - 📙 I'm also putting together an ebook on Angular Flex-Layout
@@ -13,7 +28,6 @@
   - Write more on Angular Material
   - Create new blog site
 
-
 I'm a Frontend software engineer based in the UK. I've been a software developer/engineer for over twenty years now and have worked on a wide range of projects using C#, web forms, ASP.Net MVC, SQL server and MariaDB, for the last six years I've focused on Angular, Angular Material and Angular Flex-Layout.
 
 In the last couple of years I've written posts on Angular, Angular Material and Angular Flex-Layout (see top five latest posts below), there are more posts on [anglebrackets][website].
@@ -21,16 +35,15 @@ In the last couple of years I've written posts on Angular, Angular Material and 
 
 I recently completed the Level 2 Certified Angular Program, I am also an MCP, MCSD, MCAD.Net, AZ-900 and was also a Microsoft Silver Partner for ISV, I'm currently studying for the DP-900.
 
+<!-- # Sponsorship Data (Per/Month in USD)
 
-## Connect with me
-[<img align="left" alt="anglebrackets.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="anglebrackets | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="anglebrackets | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="anglebrackets | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-<br />
+| Description          | Paid (Per/Month) | Received (Per/Month) | Balance |
+|----------------------|------------------|----------------------|---------|
+| Sponsorship Paid     |                  |                      |         |
+| Sponsorship Received |                  |                      |         |
+| Total                |                  |                      |         |
+ 
+-->
 
 <br />
 
@@ -83,9 +96,13 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 <br />
 
-## Recent GitHub Stats
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=duncanfaulkner&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=DuncanFaulkner&show_icons=true&theme=dark" />
 
+<br />
+
+ 
 [website]: https://anglebrackets.dev
 [ngconf]: https://medium.com/ngconf/
 [medium]: https://anglebrackets-dev.medium.com/
