@@ -77,11 +77,11 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Signals](https://medium.com/ngconf/angular-signals-cd2010bacb3e?source=rss-767968b520a3------2)
 - [A new layout ahead](https://medium.com/ngconf/a-new-layout-ahead-bb2b5e6c2abb?source=rss-767968b520a3------2)
 - [What’s new in Angular Material 15](https://medium.com/ngconf/whats-new-in-angular-material-15-a196e606a33?source=rss-767968b520a3------2)
 - [Angular Flex-Layout using MediaObserver](https://medium.com/ngconf/angular-flex-layout-using-mediaobserver-20d13931b1dd?source=rss-767968b520a3------2)
 - [Angular Flex-Layout](https://medium.com/ngconf/angular-flex-layout-ddf1c8fad37e?source=rss-767968b520a3------2)
-- [How to: Using Mat-Icon — Part Two](https://medium.com/ngconf/how-to-using-mat-icon-part-two-2dfb748c7bfc?source=rss-767968b520a3------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...][website]
 
