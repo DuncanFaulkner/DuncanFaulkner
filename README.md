@@ -96,7 +96,7 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 <br />
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=duncanfaulkner&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duncanfaulkner&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=DuncanFaulkner&show_icons=true&theme=dark" />
 
