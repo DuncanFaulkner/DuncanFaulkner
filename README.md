@@ -87,11 +87,11 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/ngbracket/ngx-layout/pull/30) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-2. 🗣 Commented on [#28](https://github.com/ngbracket/ngx-layout/issues/28#issuecomment-1699851141) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-3. 🗣 Commented on [#28](https://github.com/ngbracket/ngx-layout/issues/28#issuecomment-1698642742) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-4. 🗣 Commented on [#27](https://github.com/ngbracket/ngx-layout/issues/27#issuecomment-1695391546) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-5. 🗣 Commented on [#1434](https://github.com/angular/flex-layout/issues/1434#issuecomment-1649822512) in [angular/flex-layout](https://github.com/angular/flex-layout)
+1. 🗣 Commented on [#33](https://github.com/ngbracket/ngx-layout/pull/33#issuecomment-1710791571) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+2. 🎉 Merged PR [#37](https://github.com/ngbracket/ngx-layout/pull/37) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+3. ❌ Reopened PR [#37](https://github.com/ngbracket/ngx-layout/pull/37) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+4. 🗣 Commented on [#37](https://github.com/ngbracket/ngx-layout/pull/37#issuecomment-1710738514) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+5. ❌ Closed PR [#37](https://github.com/ngbracket/ngx-layout/pull/37) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 <!--END_SECTION:activity-->
 
 <br />
