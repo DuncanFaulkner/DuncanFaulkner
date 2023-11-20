@@ -87,11 +87,11 @@ I recently completed the Level 2 Certified Angular Program, I am also an MCP, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#44](https://github.com/ngbracket/ngx-layout/issues/44) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-2. 🗣 Commented on [#44](https://github.com/ngbracket/ngx-layout/issues/44#issuecomment-1753967655) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-3. 🗣 Commented on [#44](https://github.com/ngbracket/ngx-layout/issues/44#issuecomment-1753916005) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-4. 🗣 Commented on [#44](https://github.com/ngbracket/ngx-layout/issues/44#issuecomment-1753913089) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-5. 🗣 Commented on [#43](https://github.com/ngbracket/ngx-layout/issues/43#issuecomment-1741201116) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+1. 🔒 Closed issue [#45](https://github.com/ngbracket/ngx-layout/issues/45) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+2. 🗣 Commented on [#27](https://github.com/ngbracket/ngx-layout/issues/27#issuecomment-1817140280) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+3. 🗣 Commented on [#45](https://github.com/ngbracket/ngx-layout/issues/45#issuecomment-1815413849) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+4. 🚀 Published release [17.0.0](https://github.com/ngbracket/ngx-layout/releases/tag/17.0.0) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+5. 🗣 Commented on [#45](https://github.com/ngbracket/ngx-layout/issues/45#issuecomment-1813300939) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 <!--END_SECTION:activity-->
 
 <br />
