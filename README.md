@@ -19,21 +19,23 @@
 ## Hi, I'm Duncan 👋, 
 - 🌱 I’m the maintainer of the Angular Flex-Layout Library - now called ngx-layout [@ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 - 📙 I've written a series of mini-ebooks for Angular material: [gumroad]
-- 📙 I'm also putting together an ebook on Angular Flex-Layout
 - 📮 I write blog posts for here [anglebrackets][website] here [ngconf] and [medium]
-- 🥅 2022/23 Goals: 
-  - Contribute more to Open Source projects
+- 🥅 2023/24 Goals: 
   - Write a guide book to Angular
+  - Contribute more to Open Source projects
   - Get back on the Meet up ciricut
   - Write more on Angular Material
   - Create new blog site
 
-I'm a Frontend software engineer based in the UK. I've been a software developer/engineer for over twenty years now and have worked on a wide range of projects using C#, web forms, ASP.Net MVC, SQL server and MariaDB, for the last six years I've focused on Angular, Angular Material and Angular Flex-Layout.
+## PERSONAL SUMMARY
+A highly skilled Software Engineer with two decades of extensive experience in software development, with a proven track record of successfully leading projects, line manager and mentoring other developers within and across teams.
+Experienced in working with the Angular framework and following best practices. Proficient in using Typescript, JavaScript, HTML, SCSS, Angular Material, NgRx, RxJs, MFE, Jest and Karma. Knowledge of the complete Software Development Life
+Cycle (SDLC) of a project and experience in working with Agile methodologies. Dedicated and experienced software developer, with a focus on Angular and front-end development.
 
 In the last couple of years I've written posts on Angular, Angular Material and Angular Flex-Layout (see top five latest posts below), there are more posts on [anglebrackets][website].
 
 
-I recently completed the Level 2 Certified Angular Program, I am also an MCP, MCSD, MCAD.Net, AZ-900, DP-900 and was also a Microsoft Silver Partner for ISV.
+I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MCAD.Net, AZ-900, DP-900 and was also a Microsoft Silver Partner for ISV.
 
 <!-- # Sponsorship Data (Per/Month in USD)
 
