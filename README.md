@@ -68,6 +68,7 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Angular Developer | Speaker | Author](https://www.youtube.com/watch?v=7BJW8xt53m0)
 - [Angular Online Meetup, Sep. 2021](https://www.youtube.com/watch?v=m-y4t0YeG1Q)
 - [Duncan Faulkner   Lightning Talks NG Conference Day 2, April 23rd](https://www.youtube.com/watch?v=7Cq1cGt0OSA)
 <!-- YOUTUBE:END -->
