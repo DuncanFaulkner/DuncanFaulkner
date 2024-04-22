@@ -90,11 +90,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/ngbracket/ngx-layout/issues/27#issuecomment-2054170599) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-2. 🗣 Commented on [#1434](https://github.com/angular/flex-layout/issues/1434#issuecomment-2041477149) in [angular/flex-layout](https://github.com/angular/flex-layout)
-3. 🗣 Commented on [#53](https://github.com/ngbracket/ngx-layout/issues/53#issuecomment-2034372501) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-4. 🗣 Commented on [#53](https://github.com/ngbracket/ngx-layout/issues/53#issuecomment-2024097131) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-5. 🗣 Commented on [#1442](https://github.com/angular/flex-layout/pull/1442#issuecomment-1993969288) in [angular/flex-layout](https://github.com/angular/flex-layout)
+1. 🗣 Commented on [#53](https://github.com/ngbracket/ngx-layout/issues/53#issuecomment-2060546682) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+2. 🗣 Commented on [#27](https://github.com/ngbracket/ngx-layout/issues/27#issuecomment-2059925877) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+3. 🗣 Commented on [#1943](https://github.com/swimlane/ngx-charts/pull/1943#issuecomment-2057785054) in [swimlane/ngx-charts](https://github.com/swimlane/ngx-charts)
+4. 🗣 Commented on [#27](https://github.com/ngbracket/ngx-layout/issues/27#issuecomment-2054170599) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+5. 🗣 Commented on [#1434](https://github.com/angular/flex-layout/issues/1434#issuecomment-2041477149) in [angular/flex-layout](https://github.com/angular/flex-layout)
 <!--END_SECTION:activity-->
 
 <br />
