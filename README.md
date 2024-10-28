@@ -90,11 +90,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#921](https://github.com/antoantonyk/password-strength-meter/pull/921#issuecomment-2415999977) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
-2. 🗣 Commented on [#921](https://github.com/antoantonyk/password-strength-meter/pull/921#issuecomment-2408562341) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
-3. 🗣 Commented on [#922](https://github.com/antoantonyk/password-strength-meter/pull/922#issuecomment-2392960269) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
-4. 🗣 Commented on [#57](https://github.com/ngbracket/ngx-layout/issues/57#issuecomment-2386729210) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-5. 🗣 Commented on [#1943](https://github.com/swimlane/ngx-charts/pull/1943#issuecomment-2384139521) in [swimlane/ngx-charts](https://github.com/swimlane/ngx-charts)
+1. 🗣 Commented on [#909](https://github.com/antoantonyk/password-strength-meter/issues/909#issuecomment-2438933326) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+2. 🗣 Commented on [#924](https://github.com/antoantonyk/password-strength-meter/pull/924#issuecomment-2436138686) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+3. 🗣 Commented on [#921](https://github.com/antoantonyk/password-strength-meter/pull/921#issuecomment-2415999977) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+4. 🗣 Commented on [#921](https://github.com/antoantonyk/password-strength-meter/pull/921#issuecomment-2408562341) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+5. 🗣 Commented on [#922](https://github.com/antoantonyk/password-strength-meter/pull/922#issuecomment-2392960269) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
 <!--END_SECTION:activity-->
 
 <br />
