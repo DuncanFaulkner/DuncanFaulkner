@@ -90,11 +90,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/ngbracket/ngx-layout/pull/58) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-2. 🗣 Commented on [#926](https://github.com/antoantonyk/password-strength-meter/pull/926#issuecomment-2465880978) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
-3. 🗣 Commented on [#925](https://github.com/antoantonyk/password-strength-meter/pull/925#issuecomment-2448595665) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
-4. 🗣 Commented on [#909](https://github.com/antoantonyk/password-strength-meter/issues/909#issuecomment-2438933326) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
-5. 🗣 Commented on [#924](https://github.com/antoantonyk/password-strength-meter/pull/924#issuecomment-2436138686) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+1. 🚀 Published release [Release: 19.0.0](https://github.com/ngbracket/ngx-layout/releases/tag/55823ed) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+2. ❌ Closed PR [#58](https://github.com/ngbracket/ngx-layout/pull/58) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+3. 💪 Opened PR [#58](https://github.com/ngbracket/ngx-layout/pull/58) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+4. 🗣 Commented on [#926](https://github.com/antoantonyk/password-strength-meter/pull/926#issuecomment-2465880978) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+5. 🗣 Commented on [#925](https://github.com/antoantonyk/password-strength-meter/pull/925#issuecomment-2448595665) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
 <!--END_SECTION:activity-->
 
 <br />
