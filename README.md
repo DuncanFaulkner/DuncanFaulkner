@@ -1,6 +1,5 @@
-<!-- [![Website](https://img.shields.io/website?label=anglebrackets.dev&style=for-the-badge&url=https%3A%2F%2Fanglebrackets.dev)](https://anglebrackets.dev) 
+ [![Website](https://img.shields.io/website?label=anglebrackets.dev&style=for-the-badge&url=https%3A%2F%2Fanglebrackets.dev)](https://anglebrackets.dev) 
   [![Twitter Follow](https://img.shields.io/twitter/follow/duncanfaulkner?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDuncanFaulkner&screen_name=DuncanFaulkner)
--->
 
 <p>
 <a href="https://twitter.com/duncanfaulkner">
@@ -20,12 +19,14 @@
 - 🌱 I’m the maintainer of the Angular Flex-Layout Library - now called ngx-layout [@ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 - 📙 I've written a series of mini-ebooks for Angular material: [gumroad]
 - 📮 I write blog posts for here [anglebrackets][website] here [ngconf] and [medium]
-- 🥅 2023/24 Goals: 
-  - Write a guide book to Angular
+- 📙 I've published my book Modern Web Development with Angular
+- - [Modern web development with Angular](https://bit.ly/mwdw-angular)
+- - [Modern web development with Angular](https://amzn.to/3BuQ3Xe)
+- 📮 [anglebrackets.dev](https://anglebrackets.dev) 
+- 🥅 2024/25 Goals: 
   - Contribute more to Open Source projects
   - Get back on the Meet up ciricut
   - Write more on Angular Material
-  - Create new blog site
 
 ## PERSONAL SUMMARY
 A highly skilled Software Engineer with two decades of extensive experience in software development, with a proven track record of successfully leading projects, line manager and mentoring other developers within and across teams.
