@@ -20,8 +20,8 @@
 - 📙 I've written a series of mini-ebooks for Angular material: [gumroad]
 - 📮 I write blog posts for here [anglebrackets][website] here [ngconf] and [medium]
 - 📙 I've published my book Modern Web Development with Angular
-- - [Modern web development with Angular](https://bit.ly/mwdw-angular)
-- - [Modern web development with Angular](https://amzn.to/3BuQ3Xe)
+- - [Modern web development with Angular](https://bit.ly/mwdw-angular) OrangeAVA
+- - [Modern web development with Angular](https://amzn.to/3BuQ3Xe) Amazon
 - 📮 [anglebrackets.dev](https://anglebrackets.dev) 
 - 🥅 2024/25 Goals: 
   - Contribute more to Open Source projects
