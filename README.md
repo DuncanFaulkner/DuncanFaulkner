@@ -91,11 +91,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DuncanFaulkner/blog/pull/2) in [DuncanFaulkner/blog](https://github.com/DuncanFaulkner/blog)
-2. 💪 Opened PR [#2](https://github.com/DuncanFaulkner/blog/pull/2) in [DuncanFaulkner/blog](https://github.com/DuncanFaulkner/blog)
-3. 🎉 Merged PR [#1](https://github.com/DuncanFaulkner/blog/pull/1) in [DuncanFaulkner/blog](https://github.com/DuncanFaulkner/blog)
-4. 💪 Opened PR [#1](https://github.com/DuncanFaulkner/blog/pull/1) in [DuncanFaulkner/blog](https://github.com/DuncanFaulkner/blog)
-5. 🗣 Commented on [#27](https://github.com/ngbracket/ngx-layout/issues/27#issuecomment-2746486186) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+1. 🎉 Merged PR [#92](https://github.com/ngbracket/ngx-layout/pull/92) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+2. 💪 Opened PR [#92](https://github.com/ngbracket/ngx-layout/pull/92) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+3. 🎉 Merged PR [#91](https://github.com/ngbracket/ngx-layout/pull/91) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+4. 💪 Opened PR [#91](https://github.com/ngbracket/ngx-layout/pull/91) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+5. 🎉 Merged PR [#2](https://github.com/DuncanFaulkner/blog/pull/2) in [DuncanFaulkner/blog](https://github.com/DuncanFaulkner/blog)
 <!--END_SECTION:activity-->
 
 <br />
