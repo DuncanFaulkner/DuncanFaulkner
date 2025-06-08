@@ -16,7 +16,7 @@
 <p/>
 
 ## Hi, I'm Duncan 👋, 
-- 🌱 I’m the maintainer of the Angular Flex-Layout Library - now called ngx-layout [@ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+- 🌱 I’m the maintainer of @ngbracket/ngx-layout, (formerly @ngular/flex-layout) [@ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 - 📙 I've written a series of mini-ebooks for Angular material: [gumroad]
 - 📮 I write blog posts for here [anglebrackets][website] here [ngconf] and [medium]
 - 📙 I've published my book Modern Web Development with Angular
@@ -36,7 +36,7 @@ Cycle (SDLC) of a project and experience in working with Agile methodologies. De
 In the last couple of years I've written posts on Angular, Angular Material and Angular Flex-Layout (see top five latest posts below), there are more posts on [anglebrackets][website].
 
 
-I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MCAD.Net, AZ-900, DP-900 and was also a Microsoft Silver Partner for ISV.
+I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MCAD.Net, AZ-900, DP-900 and previously a Microsoft Silver Partner for ISV.
 
 <!-- # Sponsorship Data (Per/Month in USD)
 
@@ -47,6 +47,8 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 | Total                |                  |                      |         |
  
 -->
+## Publications
+![Modern-Web-Development-with-Angular-Straight_400x](https://github.com/user-attachments/assets/cdb2759e-00a5-4626-81bc-0851ad0a6c1f)
 
 <br />
 
@@ -105,6 +107,7 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=DuncanFaulkner&show_icons=true&theme=dark" />
 
 <br />
+
 
  
 [website]: https://anglebrackets.dev
