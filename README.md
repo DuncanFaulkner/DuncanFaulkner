@@ -93,11 +93,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 20.0.0](https://github.com/ngbracket/ngx-layout/releases/tag/20.0.0) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-2. 🎉 Merged PR [#99](https://github.com/ngbracket/ngx-layout/pull/99) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-3. 💪 Opened PR [#99](https://github.com/ngbracket/ngx-layout/pull/99) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-4. 🎉 Merged PR [#97](https://github.com/ngbracket/ngx-layout/pull/97) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-5. 🎉 Merged PR [#98](https://github.com/ngbracket/ngx-layout/pull/98) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+1. 🚀 Published release [Release 20.0.1](https://github.com/ngbracket/ngx-layout/releases/tag/20.0.1) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+2. 🎉 Merged PR [#100](https://github.com/ngbracket/ngx-layout/pull/100) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+3. 🚀 Published release [Release 20.0.0](https://github.com/ngbracket/ngx-layout/releases/tag/20.0.0) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+4. 🎉 Merged PR [#99](https://github.com/ngbracket/ngx-layout/pull/99) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+5. 💪 Opened PR [#99](https://github.com/ngbracket/ngx-layout/pull/99) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 <!--END_SECTION:activity-->
 
 <br />
