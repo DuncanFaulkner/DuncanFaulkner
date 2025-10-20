@@ -93,8 +93,8 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/ngbracket/ngx-layout/issues/43#issuecomment-3276568329) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-2. 🗣 Commented on [#43](https://github.com/ngbracket/ngx-layout/issues/43#issuecomment-3257655032) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+1. ❗ Opened issue [#64515](https://github.com/angular/angular/issues/64515) in [angular/angular](https://github.com/angular/angular)
+2. 🗣 Commented on [#64362](https://github.com/angular/angular/issues/64362#issuecomment-3414185288) in [angular/angular](https://github.com/angular/angular)
 3. 🗣 Commented on [#63515](https://github.com/angular/angular/pull/63515#issuecomment-3240435658) in [angular/angular](https://github.com/angular/angular)
 4. 💪 Opened PR [#63515](https://github.com/angular/angular/pull/63515) in [angular/angular](https://github.com/angular/angular)
 5. 🗣 Commented on [#63321](https://github.com/angular/angular/issues/63321#issuecomment-3239310630) in [angular/angular](https://github.com/angular/angular)
