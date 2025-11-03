@@ -83,11 +83,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Signal Forms](https://anglebrackets-dev.medium.com/signal-forms-4c4c647d1e6a?source=rss-767968b520a3------2)
 - [Introduction to Vitest and Angular](https://anglebrackets-dev.medium.com/introduction-to-vitest-and-angular-9a951aa1ec17?source=rss-767968b520a3------2)
 - [How to use the new Mat-Slider](https://medium.com/ngconf/how-to-use-the-new-mat-slider-20fa9fc715e3?source=rss-767968b520a3------2)
 - [Angular Signals](https://medium.com/ngconf/angular-signals-cd2010bacb3e?source=rss-767968b520a3------2)
 - [A new layout ahead](https://medium.com/ngconf/a-new-layout-ahead-bb2b5e6c2abb?source=rss-767968b520a3------2)
-- [What’s new in Angular Material 15](https://medium.com/ngconf/whats-new-in-angular-material-15-a196e606a33?source=rss-767968b520a3------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...][website]
 
