@@ -93,10 +93,10 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#101](undefined) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-2. 🗣 Commented on [#101](https://github.com/ngbracket/ngx-layout/pull/101#issuecomment-3583264500) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-3. 💪 Opened PR [#101](undefined) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
-4. 💪 Opened PR [#63515](https://github.com/angular/angular/pull/63515) in [angular/angular](https://github.com/angular/angular)
+1. 🗣 Commented on [#32879](https://github.com/angular/components/issues/32879#issuecomment-4000710733) in [angular/components](https://github.com/angular/components)
+2. 🔒 Closed issue [#32879](https://github.com/angular/components/issues/32879) in [angular/components](https://github.com/angular/components)
+3. ℹ️ Labeled issue [#32879](https://github.com/angular/components/issues/32879) in [angular/components](https://github.com/angular/components)
+4. ❗ Opened issue [#32879](https://github.com/angular/components/issues/32879) in [angular/components](https://github.com/angular/components)
 5. 🗣 Commented on [#63321](https://github.com/angular/angular/issues/63321#issuecomment-3239310630) in [angular/angular](https://github.com/angular/angular)
 <!--END_SECTION:activity-->
 
