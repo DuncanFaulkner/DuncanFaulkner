@@ -83,7 +83,7 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Signal Forms — Updated](https://anglebrackets-dev.medium.com/this-is-a-follow-up-post-on-signal-forms-i-wrote-back-in-october-2025-which-you-can-find-medium-or-e8bedd7bca79?source=rss-767968b520a3------2)
+- [Signal Forms Series — Part 1 | Part 2 &lpar;this post&rpar;](https://anglebrackets-dev.medium.com/this-is-a-follow-up-post-on-signal-forms-i-wrote-back-in-october-2025-which-you-can-find-medium-or-e8bedd7bca79?source=rss-767968b520a3------2)
 - [Passing form groups to child components](https://anglebrackets-dev.medium.com/passing-form-groups-to-child-components-2b2bb2dd45da?source=rss-767968b520a3------2)
 - [Signal Forms](https://anglebrackets-dev.medium.com/signal-forms-4c4c647d1e6a?source=rss-767968b520a3------2)
 - [Introduction to Vitest and Angular](https://anglebrackets-dev.medium.com/introduction-to-vitest-and-angular-9a951aa1ec17?source=rss-767968b520a3------2)
