@@ -93,11 +93,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ngbracket/market-place/pull/12) in [ngbracket/market-place](https://github.com/ngbracket/market-place)
-2. 💪 Opened PR [#12](https://github.com/ngbracket/market-place/pull/12) in [ngbracket/market-place](https://github.com/ngbracket/market-place)
-3. 🎉 Merged PR [#11](https://github.com/ngbracket/market-place/pull/11) in [ngbracket/market-place](https://github.com/ngbracket/market-place)
-4. 💪 Opened PR [#11](https://github.com/ngbracket/market-place/pull/11) in [ngbracket/market-place](https://github.com/ngbracket/market-place)
-5. 🎉 Merged PR [#10](https://github.com/ngbracket/market-place/pull/10) in [ngbracket/market-place](https://github.com/ngbracket/market-place)
+1. ❗ Opened issue [#115](https://github.com/ngbracket/ngx-layout/issues/115) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+2. 🎉 Merged PR [#114](https://github.com/ngbracket/ngx-layout/pull/114) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+3. 💪 Opened PR [#114](https://github.com/ngbracket/ngx-layout/pull/114) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+4. 🎉 Merged PR [#113](https://github.com/ngbracket/ngx-layout/pull/113) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+5. 💪 Opened PR [#113](https://github.com/ngbracket/ngx-layout/pull/113) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 <!--END_SECTION:activity-->
 
 <br />
