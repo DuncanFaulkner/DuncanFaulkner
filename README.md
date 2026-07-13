@@ -84,10 +84,10 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Why I Built an Angular Component Library Where Accessibility Isn’t a Backlog Item](https://anglebrackets-dev.medium.com/why-i-built-an-angular-component-library-where-accessibility-isnt-a-backlog-item-d3cf9a58a455?source=rss-767968b520a3------2)
+- [Managing Focus in Angular: Dialogs, Drawers and Route Changes Without Stranding Your Users](https://anglebrackets-dev.medium.com/managing-focus-in-angular-dialogs-drawers-and-route-changes-without-stranding-your-users-4549c2e61859?source=rss-767968b520a3------2)
 - [AXE Passes, But It’s Still Unusable: The Accessibility Bugs Automated Tools Can’t Catch](https://anglebrackets-dev.medium.com/axe-passes-but-its-still-unusable-the-accessibility-bugs-automated-tools-can-t-catch-17c224a87beb?source=rss-767968b520a3------2)
+- [The WCAG AA Checklist Every Angular Component Should Pass Before You Ship](https://anglebrackets-dev.medium.com/the-wcag-aa-checklist-every-angular-component-should-pass-before-you-ship-7da9d34cfdd8?source=rss-767968b520a3------2)
 - [ngx-layout v22: Angular’s Flex-Layout, Brought Forward](https://anglebrackets-dev.medium.com/ngx-layout-v22-angulars-flex-layout-brought-forward-1fb424c8430d?source=rss-767968b520a3------2)
-- [Signal Forms Series — Part 1 | Part 2 &lpar;this post&rpar;](https://anglebrackets-dev.medium.com/this-is-a-follow-up-post-on-signal-forms-i-wrote-back-in-october-2025-which-you-can-find-medium-or-e8bedd7bca79?source=rss-767968b520a3------2)
-- [Passing form groups to child components](https://anglebrackets-dev.medium.com/passing-form-groups-to-child-components-2b2bb2dd45da?source=rss-767968b520a3------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...][website]
 
