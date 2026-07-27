@@ -93,11 +93,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ngbracket/ngbracket-examples/pull/7) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
-2. 💪 Opened PR [#7](https://github.com/ngbracket/ngbracket-examples/pull/7) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
-3. 🎉 Merged PR [#6](https://github.com/ngbracket/ngbracket-examples/pull/6) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
-4. 💪 Opened PR [#6](https://github.com/ngbracket/ngbracket-examples/pull/6) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
-5. 🎉 Merged PR [#5](https://github.com/ngbracket/ngbracket-examples/pull/5) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
+1. 🎉 Merged PR [#11](https://github.com/ngbracket/ngbracket-examples/pull/11) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
+2. 💪 Opened PR [#11](https://github.com/ngbracket/ngbracket-examples/pull/11) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
+3. 🚀 Published release [Release 22.0.1](https://github.com/ngbracket/ngx-layout/releases/tag/22.0.1) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+4. 🚀 Published release [Release 22.0.0](https://github.com/ngbracket/ngx-layout/releases/tag/22.0.0) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
+5. 🎉 Merged PR [#119](https://github.com/ngbracket/ngx-layout/pull/119) in [ngbracket/ngx-layout](https://github.com/ngbracket/ngx-layout)
 <!--END_SECTION:activity-->
 
 <br />
