@@ -83,11 +83,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Wrote a WCAG 2.2 AA Conformance Report for My Own Library — Here’s What a VPAT Actually Requires](https://levelup.gitconnected.com/i-wrote-a-wcag-2-2-aa-conformance-report-for-my-own-library-heres-what-a-vpat-actually-requires-1edb6f52a89e?source=rss-767968b520a3------2)
 - [Accessible Charts in Angular: A Chart a Screen Reader Can Actually Read](https://itnext.io/accessible-charts-in-angular-a-chart-a-screen-reader-can-actually-read-9dc391f3d763?source=rss-767968b520a3------2)
 - [A Keyboard-First Admin Shell in Angular: Skip Links, Landmarks, and Focus on Route Change](https://itnext.io/a-keyboard-first-admin-shell-in-angular-skip-links-landmarks-and-focus-on-route-change-6704741145a7?source=rss-767968b520a3------2)
 - [I AXE-Audited My Own Accessibility Library — Here’s What I Found on Myself](https://itnext.io/i-axe-audited-my-own-accessibility-library-heres-what-i-found-on-myself-fa722e84740e?source=rss-767968b520a3------2)
 - [Why I Built an Angular Component Library Where Accessibility Isn’t a Backlog Item](https://anglebrackets-dev.medium.com/why-i-built-an-angular-component-library-where-accessibility-isnt-a-backlog-item-d3cf9a58a455?source=rss-767968b520a3------2)
-- [Managing Focus in Angular: Dialogs, Drawers and Route Changes Without Stranding Your Users](https://anglebrackets-dev.medium.com/managing-focus-in-angular-dialogs-drawers-and-route-changes-without-stranding-your-users-4549c2e61859?source=rss-767968b520a3------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...][website]
 
