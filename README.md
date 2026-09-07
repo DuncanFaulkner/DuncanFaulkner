@@ -93,11 +93,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/ngbracket/ngbracket-examples/pull/14) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
-2. 🎉 Merged PR [#15](https://github.com/ngbracket/ngbracket-examples/pull/15) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
-3. 💪 Opened PR [#15](https://github.com/ngbracket/ngbracket-examples/pull/15) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
-4. 💪 Opened PR [#14](https://github.com/ngbracket/ngbracket-examples/pull/14) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
-5. 🎉 Merged PR [#13](https://github.com/ngbracket/ngbracket-examples/pull/13) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
+1. 🗣 Commented on [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951#issuecomment-5560511733) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. 🗣 Commented on [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951#issuecomment-5536816728) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+3. 🗣 Commented on [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951#issuecomment-5525083757) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+4. 🗣 Commented on [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951#issuecomment-5516961751) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+5. ℹ️ Labeled issue [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
 
 <br />
