@@ -93,11 +93,11 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951#issuecomment-5560511733) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-2. 🗣 Commented on [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951#issuecomment-5536816728) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-3. 🗣 Commented on [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951#issuecomment-5525083757) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. 🗣 Commented on [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951#issuecomment-5516961751) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-5. ℹ️ Labeled issue [#12951](https://github.com/EclipseFdn/open-vsx.org/issues/12951) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 🎉 Merged PR [#17](https://github.com/ngbracket/a11y-devtools/pull/17) in [ngbracket/a11y-devtools](https://github.com/ngbracket/a11y-devtools)
+2. 💪 Opened PR [#17](https://github.com/ngbracket/a11y-devtools/pull/17) in [ngbracket/a11y-devtools](https://github.com/ngbracket/a11y-devtools)
+3. 🎉 Merged PR [#16](https://github.com/ngbracket/a11y-devtools/pull/16) in [ngbracket/a11y-devtools](https://github.com/ngbracket/a11y-devtools)
+4. 💪 Opened PR [#16](https://github.com/ngbracket/a11y-devtools/pull/16) in [ngbracket/a11y-devtools](https://github.com/ngbracket/a11y-devtools)
+5. 🎉 Merged PR [#22](https://github.com/ngbracket/ngbracket-examples/pull/22) in [ngbracket/ngbracket-examples](https://github.com/ngbracket/ngbracket-examples)
 <!--END_SECTION:activity-->
 
 <br />
