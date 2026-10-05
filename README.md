@@ -83,8 +83,8 @@ I recently completed the Level 2 Certified Angular Program, and an MCP, MCSD, MC
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [I Wrote a WCAG 2.2 AA Conformance Report for My Own Library — Here’s What a VPAT Actually Requires](https://levelup.gitconnected.com/i-wrote-a-wcag-2-2-aa-conformance-report-for-my-own-library-heres-what-a-vpat-actually-requires-1edb6f52a89e?source=rss-767968b520a3------2)
-- [Accessible Charts in Angular: A Chart a Screen Reader Can Actually Read](https://itnext.io/accessible-charts-in-angular-a-chart-a-screen-reader-can-actually-read-9dc391f3d763?source=rss-767968b520a3------2)
+- [Writing a WCAG 2.2 conformance report &lpar;VPAT&rpar; for an Angular component library](https://levelup.gitconnected.com/i-wrote-a-wcag-2-2-aa-conformance-report-for-my-own-library-heres-what-a-vpat-actually-requires-1edb6f52a89e?source=rss-767968b520a3------2)
+- [Accessible charts in Angular: a summary, a data table and a keyboard cursor](https://itnext.io/accessible-charts-in-angular-a-chart-a-screen-reader-can-actually-read-9dc391f3d763?source=rss-767968b520a3------2)
 - [computed&lpar;&rpar; and effect&lpar;&rpar;: The Two Signal APIs People Get Wrong](https://levelup.gitconnected.com/computed-and-effect-the-two-signal-apis-people-get-wrong-bd19ced52124?source=rss-767968b520a3------2)
 - [Native Control Flow in Angular: Migrating from *ngIf and *ngFor to @if/@for/@switch](https://levelup.gitconnected.com/native-control-flow-in-angular-migrating-from-ngif-and-ngfor-to-if-for-switch-26ce2940834c?source=rss-767968b520a3------2)
 - [A Keyboard-First Admin Shell in Angular: Skip Links, Landmarks, and Focus on Route Change](https://itnext.io/a-keyboard-first-admin-shell-in-angular-skip-links-landmarks-and-focus-on-route-change-6704741145a7?source=rss-767968b520a3------2)
